@@ -1,0 +1,40 @@
+body {
+    background-color: neon;
+    font-family: serif;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 4px 4px 6px blue;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+h3 {
+    color: red;
+}
+
+mark {
+    font-style: italic;
+}
+
+strong {
+    background-color: red;
+    color: white;
+}
+
+footer {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+.red-bold {
+    color: red;
+    font-weight: bold;
+}
+
+.main-text {
+    color: orange;
+}
